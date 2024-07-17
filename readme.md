@@ -15,3 +15,5 @@ git fetch --prune
 
 For merging:
 git merge {branch name}
+
+should add branch protection rule
